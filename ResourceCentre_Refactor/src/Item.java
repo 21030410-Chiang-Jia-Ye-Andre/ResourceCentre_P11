@@ -33,6 +33,7 @@ public class Item {
 	}
 	
 	public String getAssetTag() {
+		// Write your code here
 		return assetTag;
 	}
 
